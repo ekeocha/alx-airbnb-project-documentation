@@ -1,7 +1,7 @@
 # alx-airbnb-project-documentation
 AirBnB Clone Documentation
 
-![Alt text](C:\Users\ADMIN\Desktop\Airbnb_clone\alx-airbnb-project-documentation\features-and-functionalities\AirBnB Core Functionalities.drawio.png)
+![Alt text](C:\Users\ADMIN\Desktop\Airbnb_clone\alx-airbnb-project-documentation\AirBnBCoreFunctionalities.drawio.png)
 
 
 **🔑 Core Functionalities**
